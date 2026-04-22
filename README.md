@@ -1,3 +1,3 @@
-# mikecheninoulu.github.io
+# jingang-cv.github.io
 
-The personal website for haoyu chen CV
+The personal website for Jingang Shi CV
